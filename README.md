@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zobayer Hosen</h1>
 <h3 align="center">A passionate junior frontend developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="zobayerhb" /> </p>
-
 - 🌱 I’m currently learning **MEARN**
 
 - 💬 Ask me about **HTML, CSS, JS, REACT**
