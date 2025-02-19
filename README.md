@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **HTML, CSS, JS, REACT**
+- 💬 Ask me about **HTML, CSS, TAILWIND, JS, REACT, FIREBASE**
 
 - 📫 How to reach me **zobayerhosen2345@gmail.com**
 
